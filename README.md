@@ -2,28 +2,28 @@
 This Java project implements a disaster relief management system designed to help relief workers manage and track information about people affected by a disaster. The system connects to a PostgreSQL database and offers a user friendly command line interface for data entry and updates.
 
 # Key Features
-User-Friendly Interface (CLI)
+User-Friendly Interface (CLI): 
 Relief workers can navigate through menu options. The interface provides error handling for typos and prompts users to correct invalid entries. 
 
-Disaster Victim Management
+Disaster Victim Management: 
 Add, view, and update records for people affected by disasters, including their personal information, medical history, location, and family
 
-Database Integration
+Database Integration: 
 The application loads data from a PostgreSQL database and syncs all updates back to it. It makes updates to disaster victim records, medical records, inquiries, locations, and supploies.
 
-Inventory Management
+Inventory Management: 
 Supports different item types including personal belongings, cots (with room/grid info), water (expires after one day if assigned to a person), and blankets. Items can be allocated to individuals or locations based on availability
 
-Inquirer System
+Inquirer System: 
 Individuals and disaster victims can log inquiries to locate missing people. 
 
-Supply, Location and Medical Record Allocation
+Supply, Location and Medical Record Allocation: 
 Each person can have their location set, their medical records on file, and has a list of supplies allocated to them
 
-Language Options
+Language Options: 
 Users can specify the language and region (e.g., en-CA) when launching the program. Text is dynamically loaded from XML files, allowing future support for multiple languages. Currently, an xml file was created for english using the language code en-CA
 
-Error Handling:
+Error Handling: 
 All critical errors are logged to a timestamped errorlog.txt file in the data directory. Users are given error messages and the program exits cleanly.
 
 # Project Structure
