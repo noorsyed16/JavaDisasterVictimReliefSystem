@@ -14,6 +14,9 @@ The application loads data from a PostgreSQL database and syncs all updates back
 Inventory Management: 
 Supports different item types including personal belongings, cots (with room/grid info), water (expires after one day if assigned to a person), and blankets. Items can be allocated to individuals or locations based on availability
 
+UML Class Diagram: 
+Visual overview of system showing classes, attributes, methods, relationships, and database interactions, designed to reflect OOP principles and support project features
+
 Inquirer System: 
 Individuals and disaster victims can log inquiries to locate missing people. 
 
