@@ -11,6 +11,9 @@ Add, view, and update records for people affected by disasters, including their 
 Database Integration: 
 The application loads data from a PostgreSQL database and syncs all updates back to it. It makes updates to disaster victim records, medical records, inquiries, locations, and supploies.
 
+JUnit testing: 
+Covers all classes and methods, designed to validate functionality, handle edge cases, and ensure reliable program behavior.
+
 Inventory Management: 
 Supports different item types including personal belongings, cots (with room/grid info), water (expires after one day if assigned to a person), and blankets. Items can be allocated to individuals or locations based on availability
 
