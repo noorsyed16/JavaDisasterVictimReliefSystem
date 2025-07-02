@@ -34,9 +34,31 @@ All critical errors are logged to a timestamped errorlog.txt file in the data di
 
 # Project Structure
 src/edu/ucalgary/oop/ — Main source code, including Main.java
+
 test/edu/ucalgary/oop/ — Unit tests
-data/ — Language files, error logs, and any required input files
+
+data/ — Language files, error logs, and any required input files. It also contains the postgres database called project.sql
+
 UML.pdf — Diagram showing OOP structure
+
+# Setting up the PostgresSQL Database
+To run you will need: 
+
+PostgreSQL installed and running
+
+project.sql (provided in the data/ directory) to create the necessary tables and sample data
+
+PostgreSQL JDBC Driver
+
+1. Open PostgreSQL and create a new database:
+
+CREATE DATABASE relief_system;
+
+2. Create a user with required credentials:
+
+CREATE USER oop WITH PASSWORD 'ucalgary';
+GRANT ALL PRIVILEGES ON DATABASE relief_system TO oop;
+
 
 # To run the main:
 
