@@ -1,0 +1,566 @@
+<translation>
+  <key>main_menu_select</key>
+  <value>Please select one of the following menu options:</value>
+</translation>
+
+<translation>
+  <key>menu_options_label</key>
+  <value>MENU OPTIONS</value>
+</translation>
+
+<translation>
+  <key>main_menu_option1</key>
+  <value>1. Enter a new DisasterVictim's information</value>
+</translation>
+
+<translation>
+  <key>main_menu_option2</key>
+  <value>2. Add to data</value>
+</translation>
+
+<translation>
+  <key>personAllocated2</key>
+  <value>2. Modify Person Allocated To</value>
+</translation>
+
+<translation>
+  <key>main_menu_option3</key>
+  <value>3. View existing data</value>
+</translation>
+
+<translation>
+  <key>main_menu_option4</key>
+  <value>4. Modify existing data</value>
+</translation>
+
+<translation>
+  <key>main_menu_option5</key>
+  <value>5. Exit</value>
+</translation>
+
+
+<translation>
+  <key>enter_your_choice</key>
+  <value>Enter your choice:</value>
+</translation>
+
+<translation>
+  <key>closing_message</key>
+  <value>Thank you for using the program</value>
+</translation>
+
+<translation>
+  <key>invalid_choice</key>
+  <value>Invalid choice. Please try again.</value>
+</translation>
+
+<translation>
+  <key>invalid_input</key>
+  <value>Invalid input. Please try again.</value>
+</translation>
+
+<translation>
+  <key>enter_victim_fname</key>
+  <value>Enter the DisasterVictim's first name:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_lname</key>
+  <value>Enter the DisasterVictim's last name:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_DOB</key>
+  <value>Enter the DisasterVictim's dateOfBirth in the form YYYY-MM-DD:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_gender</key>
+  <value>Enter the DisasterVictim's gender (Choose from man, woman, non-binary person):</value>
+</translation>
+
+<translation>
+  <key>enter_victim_comment</key>
+  <value>Enter the DisasterVictim's comments:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_phone</key>
+  <value>Enter the DisasterVictim's Phone Number in the format XXX-XXX-XXXX:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_family</key>
+  <value>Enter the DisasterVictim's family/group number:</value>
+</translation>
+
+<translation>
+  <key>enter_location_name</key>
+  <value>Enter the Location's name:</value>
+</translation>
+
+<translation>
+  <key>enter_location_address</key>
+  <value>Enter the Location's address:</value>
+</translation>
+
+<translation>
+  <key>enter_victim_location</key>
+  <value>What is their location? Enter the locationID from the following list or choose 0 to create a new location:</value>
+</translation>
+
+<translation>
+  <key>enter_locationID_for_row</key>
+  <value>Enter the locationID for the row to be modified </value>
+</translation>
+
+<translation>
+  <key>any_medical_records</key>
+  <value>Does the person have any Medical Records? (Enter 1 for yes, 0 for no):</value>
+</translation>
+
+<translation>
+  <key>enter_DOT</key>
+  <value>Enter the Date of Treatment in the format YYYY-MM-DD:</value>
+</translation>
+
+<translation>
+  <key>enter_treatment_details</key>
+  <value>Enter the Treatment Details:</value>
+</translation>
+
+<translation>
+  <key>enter_table_to_add_to</key>
+  <value>Please select the table you want to add to: </value>
+</translation>
+
+<translation>
+  <key>table_options</key>
+  <value>---------------- TABLE OPTIONS ----------------</value>
+</translation>
+
+<translation>
+  <key>add_an_inquiry</key>
+  <value>1. Add an Inquiry</value>
+</translation>
+
+<translation>
+  <key>add_a_medical_record</key>
+  <value>2. Add a Medical Record</value>
+</translation>
+
+<translation>
+  <key>add_a_supply</key>
+  <value>3. Add a Supply</value>
+</translation>
+
+<translation>
+  <key>add_a_location</key>
+  <value>4. Add a Location</value>
+</translation>
+
+<translation>
+  <key>enter_location_for_med_record</key>
+  <value>Which location is the record stored in? Enter the locationID from below:</value>
+</translation>
+
+<translation>
+  <key>enter_med_record_personID</key>
+  <value>Who is the medicalRecord for? Enter the personID from below:</value>
+</translation>
+
+<translation>
+  <key>select_supply_type</key>
+  <value>Please select the type of Supply to add:</value>
+</translation>
+
+<translation>
+  <key>add_a_blanket</key>
+  <value>1. Add a Blanket</value>
+</translation>
+
+<translation>
+  <key>add_a_personalBelonging</key>
+  <value>2. Add a PersonalBelonging</value>
+</translation>
+
+<translation>
+  <key>add_a_cot</key>
+  <value>3. Add a Cot</value>
+</translation>
+
+<translation>
+  <key>add_a_water</key>
+  <value>4. Add Water</value>
+</translation>
+
+<translation>
+  <key>select_supply_allocation</key>
+  <value>Select what this supply will be allocated to:</value>
+</translation>
+
+<translation>
+  <key>options</key>
+  <value>----------------OPTIONS----------------</value>
+</translation>
+
+<translation>
+  <key>allocate_to_person</key>
+  <value>2. A Person</value>
+</translation>
+
+<translation>
+  <key>allocate_to_location</key>
+  <value>1. A Location</value>
+</translation>
+
+<translation>
+  <key>enter_supply_locationID</key>
+  <value>Enter the locationID for the location the supply will be allocated to</value>
+</translation>
+
+<translation>
+  <key>enter_supply_personID</key>
+  <value>Enter the personID for the person the supply will be allocated to</value>
+</translation>
+
+<translation>
+  <key>enter_personal_belonging_description</key>
+  <value>Enter the personal belonging description:</value>
+</translation>
+
+<translation>
+  <key>supply_go_to_person</key>
+  <value>This supply will be allocated to a person</value>
+</translation>
+
+<translation>
+  <key>enter_room_number</key>
+  <value>Please enter the new room number as 3 digits</value>
+</translation>
+
+<translation>
+  <key>enter_grid_number</key>
+  <value>Please enter the grid in the format X00 with one capital letter followed by 2 digits</value>
+</translation>
+
+<translation>
+  <key>prompt_for_inquirer</key>
+  <value>Who is making the inquiry? Enter the inquirerID from below:</value>
+</translation>
+
+<translation>
+  <key>prompt_for_seeker</key>
+  <value>Who are they seeking? Enter the seekingID from below:</value>
+</translation>
+
+<translation>
+  <key>prompt_for_location_involved</key>
+  <value>Which location is involved? Enter the locationID from below:</value>
+</translation>
+
+<translation>
+  <key>prompt_for_date_of_inquiry</key>
+  <value>Enter the date of inquiry in the form YYYY-MM-DD:</value>
+</translation>
+
+<translation>
+  <key>prompt_for_inquiry_comments</key>
+  <value>Enter the inquiry comments:</value>
+</translation>
+
+<translation>
+  <key>select_table_view</key>
+  <value>Select a table to view: </value>
+</translation>
+
+<translation>
+  <key>person1</key>
+  <value>1. Person</value>
+</translation>
+
+<translation>
+  <key>location2</key>
+  <value>2. Location</value>
+</translation>
+
+<translation>
+  <key>inquiry3</key>
+  <value>3. Inquiry</value>
+</translation>
+
+<translation>
+  <key>medicalRecord4</key>
+  <value>4. MedicalRecord</value>
+</translation>
+
+<translation>
+  <key>personLocation5</key>
+  <value>5. PersonLocation</value>
+</translation>
+
+<translation>
+  <key>supplyAllocation6</key>
+  <value>6. SupplyAllocation</value>
+</translation>
+
+<translation>
+  <key>supply7</key>
+  <value>7. Supply</value>
+</translation>
+
+<translation>
+  <key>select_table_modify</key>
+  <value>Select a table to modify:</value>
+</translation>
+
+<translation>
+  <key>supply_supplyAllocation6</key>
+  <value>6. Supply and SupplyAllocation</value>
+</translation>
+
+<translation>
+  <key>personID_to_modify</key>
+  <value>Enter the personID for the row to be modified</value>
+</translation>
+
+<translation>
+  <key>select_a_field_to_modify</key>
+  <value>Select a field to Modify: </value>
+</translation>
+
+<translation>
+  <key>firstName1</key>
+  <value>1. First Name</value>
+</translation>
+
+<translation>
+  <key>lastName2</key>
+  <value>2. Last Name</value>
+</translation>
+
+<translation>
+  <key>dateOfBirth3</key>
+  <value>3. Date of Birth</value>
+</translation>
+
+<translation>
+  <key>gender4</key>
+  <value>4. Gender</value>
+</translation>
+
+<translation>
+  <key>comments5</key>
+  <value>5. Comments</value>
+</translation>
+
+<translation>
+  <key>phoneNum6</key>
+  <value>6. Phone Number/value>
+</translation>
+
+<translation>
+  <key>family7</key>
+  <value>7. Family/Group Number</value>
+</translation>
+
+<translation>
+  <key>enter_new_fname</key>
+  <value>Please enter the new first name:</value>
+</translation>
+
+<translation>
+  <key>enter_new_lname</key>
+  <value>Please enter the new last name: </value>
+</translation>
+
+<translation>
+  <key>enter_new_DOB</key>
+  <value>Please enter the new date of birth in the format YYYY-MM-DD: </value>
+</translation>
+
+<translation>
+  <key>enter_new_gender</key>
+  <value>Please enter the new gender choose from man, woman, non-binary person: </value>
+</translation>
+
+<translation>
+  <key>enter_new_comments</key>
+  <value>Please enter the new comments: </value>
+</translation>
+
+<translation>
+  <key>enter_new_phone</key>
+  <value>Please enter the new phone number: </value>
+</translation>
+
+<translation>
+  <key>enter_new_family</key>
+  <value>Please enter the new family/group number: </value>
+</translation>
+
+<translation>
+  <key>enter_locationID_to_modify</key>
+  <value>Enter the locationID for the row to be modified </value>
+</translation>
+
+<translation>
+  <key>name1</key>
+  <value>1. Name</value>
+</translation>
+
+<translation>
+  <key>address2</key>
+  <value>2. Address</value>
+</translation>
+
+<translation>
+  <key>enter_new_value</key>
+  <value>Please enter the new value:</value>
+</translation>
+
+<translation>
+  <key>enter_inquiryID_to_modify</key>
+  <value>Enter the inquiryID for the row to be modified </value>
+</translation>
+
+<translation>
+  <key>dateOfInquiry1</key>
+  <value>1. Date of Inquiry</value>
+</translation>
+
+<translation>
+  <key>seekingID2</key>
+  <value>2. SeekingID</value>
+</translation>
+
+<translation>
+  <key>locationID3</key>
+  <value>3. LocationID</value>
+</translation>
+
+<translation>
+  <key>comments4</key>
+  <value>4. Comments</value>
+</translation>
+
+<translation>
+  <key>enter_new_dateOfInquiry</key>
+  <value>Please enter the new date of inquiry in the format YYYY-MM-DD: </value>
+</translation>
+
+<translation>
+  <key>enter_new_seekingID</key>
+  <value>Please enter the new seekingID from the Person Table: </value>
+</translation>
+
+<translation>
+  <key>enter_new_locationID</key>
+  <value>Please enter the new locationID from the Location Table: </value>
+</translation>
+
+<translation>
+  <key>enter_new_personID</key>
+  <value>Please enter the new personID from the Person Table: </value>
+</translation>
+
+<translation>
+  <key>enter_new_comments</key>
+  <value>Please enter the new comments:</value>
+</translation>
+
+<translation>
+  <key>enter_new_medicalRecordID</key>
+  <value>Enter the medicalRecordID for the row to be modified </value>
+</translation>
+
+<translation>
+  <key>locationID1</key>
+  <value>1. LocationID </value>
+</translation>
+
+<translation>
+  <key>personID2</key>
+  <value>2. PersonID</value>
+</translation>
+
+<translation>
+  <key>dateOfTreatment3</key>
+  <value>3. Date of Treatment </value>
+</translation>
+
+<translation>
+  <key>details4</key>
+  <value>4. Treatment Details</value>
+</translation>
+
+<translation>
+  <key>enter_new_dateOfTreatment</key>
+  <value>Please enter the new date of treatment in the format YYYY-MM-DD:</value>
+</translation>
+
+<translation>
+  <key>enter_new_details</key>
+  <value>Please enter the new treatment details: </value>
+</translation>
+
+<translation>
+  <key>enter_personID_modify</key>
+  <value>Enter the personID for the row to be modified in the PersonLocation table </value>
+</translation>
+
+<translation>
+  <key>enter_supplyID_modify</key>
+  <value>Enter the supplyID for the row to be modified in Supply table</value>
+</translation>
+
+<translation>
+  <key>locationAllocated1</key>
+  <value>1. Modify Location Allocated To</value>
+</translation>
+
+<translation>
+  <key>personAllocated1</key>
+  <value>1. Modify Person Allocated To</value>
+</translation>
+
+<translation>
+  <key>enter_new_locationIDAllocated</key>
+  <value>Please enter the location id for the supply to be allocated to: </value>
+</translation>
+
+<translation>
+  <key>enter_new_personIDAllocated</key>
+  <value>Please enter the person id for the supply to be allocated to: </value>
+</translation>
+
+<translation>
+  <key>description2</key>
+  <value>2. Modify Description</value>
+</translation>
+
+<translation>
+  <key>enter_new_description</key>
+  <value>Please enter the new Description:</value>
+</translation>
+
+<translation>
+  <key>roomNum3</key>
+  <value>3. Modify Room Number</value>
+</translation>
+
+<translation>
+  <key>grid4</key>
+  <value>4. Modify Grid</value>
+</translation>
+
+<translation>
+  <key>enter_new_roomNum</key>
+  <value>Please enter the new room number as 3 digits</value>
+</translation>
+
+<translation>
+  <key>enter_new_grid</key>
+  <value>Please enter the new grid in the format X00 with one capital letter followed by 2 digits</value>
+</translation>
+
